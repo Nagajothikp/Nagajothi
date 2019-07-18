@@ -1,2 +1,2 @@
-n=input("Enter a num:")
-print(n[::-1])
+y=input("Enter a num:")
+print(y[::-1])
